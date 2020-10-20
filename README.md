@@ -1,2 +1,4 @@
 # SeismicOpt
-Repo for my doctorate stuff
+############
+
+Seismic Inversion through Topology Optimization.
